@@ -3,7 +3,7 @@
 ## 10.26 COMBINE
 
 1. Matthew DeMaere [![alt text][1.1]][2] "bin3C : Hi-C mediated retrieval of metagenome-assembled genomes (MAGs)
-  - Bin3C [github repo](github.com/cerebis/bin3C)
+  - Bin3C [github repo](https://github.com/cerebis/bin3C)
   - Rates of observation of interacting loci
     - intra-chrom > inter-chrom > inter-cellular
   - Infomap [link](http://mapequation.org)
