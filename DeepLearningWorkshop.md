@@ -1,5 +1,8 @@
 # Deep Learning workshop
 ### Tansel Ersavas Garvan Institute
+### t.ersavas@garvan.org.au
+### Materials: https://goo.gl/UG6qZQ
+
 1. soft computing
   - neural network, fuzzy logic and evolutionary programming
 2. when CPU stagnates
@@ -57,6 +60,36 @@
 
 12. Algorithm matters (reinforcement Learning)
   - more than data and computing power
+
 13. Ensemble Learning
+
 14. Transfer Learning
-15. 
+
+15. examples
+  - DeepVariant
+  - D-cell
+  - MUSE - portable EEG
+  - DeepHeart
+
+16. DL framework
+  - TensorFlow
+  - keras
+  - caffe
+  - pyTorch
+  - ...
+
+17. tensorflow
+  - tensor
+    - N dimensional object
+    - rank 0: scalar, rank 1: vector, rank 2: matrix
+  - flow
+
+18. keras
+  - high level API
+  - layers
+  - model: sequential or functional
+  - optimizers [link](https://keras.io/optimizers/)
+  - loss function [link](https://keras.io/losses/)
+
+20. video explain Neural Network
+  - [link](https://www.cybercontrols.org/neuralnetworks)
