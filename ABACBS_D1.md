@@ -120,26 +120,6 @@
   - ruv::RUVIII
   - tumor content can be a hiden factor and is unwanted variation
 
-23. __KEYNOTE__ Chris Saunders [![alt text][1.1]][13] Improving sequence analysis to increase the clinical value of whole genome sequencing.
-  - Notes from LukeZappia [![alt text][1.1]][1]
-  - ![image](https://pbs.twimg.com/media/DtC2cSOU4AAy0cg.jpg)
-  -
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
 [2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
@@ -156,4 +136,3 @@
 [10]: https://twitter.com/JoeCursons
 [11]: https://twitter.com/CFlensburg
 [12]: https://twitter.com/annaquagli
-[13]: https://twitter.com/ctsa11
