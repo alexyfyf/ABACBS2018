@@ -66,8 +66,8 @@
 14. Transfer Learning
 
 15. examples
-  - DeepVariant
-  - D-cell
+  - DeepVariant [link](https://github.com/rpoplin/deepvariant)
+  - D-cell [link](http://d-cell.ucsd.edu/)
   - MUSE - portable EEG
   - DeepHeart
 
