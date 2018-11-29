@@ -154,7 +154,7 @@ A simple method for launching a process and collecting system resource utilisati
   - clustree [link](https://github.com/lazappi/clustree)
 
 12. `KEYNOTE` Leming Shi Quality control and standardization of omics and bioinformatics for precision medicine
-  - Notes from LukeZappia [link](https://pbs.twimg.com/media/Ds-xtLxV4AAApib.jpg)
+  - Notes from LukeZappia ![image](https://pbs.twimg.com/media/Ds-xtLxV4AAApib.jpg)
   - Y = f(X), Y patient score, X omics
 
 13.  Rebecca Poulos, Associations between mutational signatures and driver mutations in cancer reveal pathways toward cancer pathogenesis
