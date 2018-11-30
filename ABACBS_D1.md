@@ -53,7 +53,7 @@
   -  The same is probably true for other kinds of organoids
 
 6. Yu Wan, A network approach for detecting horizontal co-transfer of antimicrobial resistance genes in bacteria
-  - GeneMates [github repo](https://github.com/wanyuac/GeneMates)
+  - GeneMates [github](https://github.com/wanyuac/GeneMates)
 
 7. __KEYNOTE__ Kim-An Do, PRECISE: Personalized Cancer specific integrated network Estimation
   - shinyapp [link](https://mjha.shinyapps.io/PRECISE)
@@ -73,14 +73,14 @@
 
 11. Luke Zappia [![alt text][1.1]][1] Visualising trees to choose clusters for scRNA-seq data
   - slide [link](https://speakerdeck.com/lazappi/visualising-trees-to-choose-clusters-for-scrna-seq-data)
-  - clustree [github repo](https://github.com/lazappi/clustree)
+  - clustree [github](https://github.com/lazappi/clustree)
 
 12. __KEYNOTE__ Leming Shi Quality control and standardization of omics and bioinformatics for precision medicine
   - Notes from LukeZappia [![alt text][1.1]][1] ![image](https://pbs.twimg.com/media/Ds-xtLxV4AAApib.jpg)
   - Y = f(X), Y patient score, X omics
 
 13. Rebecca Poulos [![alt text][1.1]][6], Associations between mutational signatures and driver mutations in cancer reveal pathways toward cancer pathogenesis
-  - Sigfit to find mutational siganture [github repo](https://github.com/kgori/sigfit)
+  - Sigfit to find mutational siganture [github](https://github.com/kgori/sigfit)
 
 14. Richard Edwards [![alt text][1.1]][7], Pseudodiploid pseudo-long-read whole genome sequencing and assembly of Pseudonaja textilis (eastern brown snake) and Notechis scutatus (mainland tiger snake)
 
@@ -92,12 +92,12 @@
 
 16. Taiyun Kim, Impact of similarity metrics on single-cell RNA-seq data clustering
   - Correlation based distance metrics lead to scRNA-seq clustering that better matches predefined labels
-  - scClustBench [github repo](https://github.com/taiyunkim/scClustBench)
+  - scClustBench [github](https://github.com/taiyunkim/scClustBench)
   - distance based metrics is susceptible to data scaling and normalization
   - correlation based (eg. pearson correlation) are robust
 
 17. __KEYNOTE__ Ann Maree Patch Identifying intra-tumor heterogeneity and mechanisms of therapy resistance from cancer sample sequencing
-  - BattenBerg assess subclonal copy number [github repo](https://github.com/Wedge-Oxford/battenberg)
+  - BattenBerg assess subclonal copy number [github](https://github.com/Wedge-Oxford/battenberg)
   - Nature (2105) paper
 
 18 Anna Trigos [![alt text][1.1]][9] Genomic drivers of the fragmentation of co-expression modules regulating multicellularity in cancer
@@ -114,7 +114,7 @@
 
 21. Christoffer Flensburg [![alt text][1.1]][11], Calling Somatic Copy Number Alterations From RNA-Seq
   - CNA copy number alteration in RNA-seq
-  - superFreq: exome, but modified for RNA-Seq [github repo](https://github.com/ChristofferFlensburg/superFreq)
+  - superFreq: exome, but modified for RNA-Seq [github](https://github.com/ChristofferFlensburg/superFreq)
 
 22. Anna Quaglieri [![alt text][1.1]][12], Correcting unwanted variation in RNA sequencing data derived from a multi-centre study of leukemia
   - ruv::RUVIII
