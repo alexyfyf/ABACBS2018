@@ -1,4 +1,4 @@
-## Posters and others
+## Some interesting posters and other things
 
 Hani Kim, U Sydney
   - AdaSampling [link](https://github.com/PengyiYang/AdaSampling)
