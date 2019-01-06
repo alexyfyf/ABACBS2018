@@ -1,5 +1,5 @@
 
-## 10.27 ABACBS DAY1
+## 10.28 ABACBS DAY2
 
 1. __KEYNOTE__ Chris Saunders [![alt text][1.1]][2] Improving sequence analysis to increase the clinical value of whole genome sequencing.
   - Notes from LukeZappia [![alt text][1.1]][1]![image](https://pbs.twimg.com/media/DtC2cSOU4AAy0cg.jpg)
